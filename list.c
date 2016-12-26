@@ -1,29 +1,13 @@
 /**************************************************************************** 
  
                                                         Kyle Sit 
-                                                        CSE 12, Fall 
                                                         28 October 2015 
-                                                        cs12xgj 
-                                Assignment Five 
+                                Linked List Container 
  
 File Name:      list.c 
 Description:    This program contains methods that manipulate linked lists to 
 		use as a generic container.
 ****************************************************************************/
-
-/*--------------------------------------------------------------------------
-Debugger Questions:
-1. 0x6030d0
-2. 0x603050
-3. 0x0
-4. 0x603070
-5. 0x603090
-6. 0x603070
-7. 0x6030f0
-8. 0x6030d0
-9. 0x6030f0
-10. 0x0
---------------------------------------------------------------------------*/
 
 #include <malloc.h>
 #include <stdio.h>
