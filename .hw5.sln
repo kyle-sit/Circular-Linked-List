@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual C++ Express 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hw5", ".hw5.vcproj", "{62F10689-B8FF-464C-BB62-BF3D66858EEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		calc|Win32 = calc|Win32
+		driver1|Win32 = driver1|Win32
+		driver2|Win32 = driver2|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62F10689-B8FF-464C-BB62-BF3D66858EEC}.calc|Win32.ActiveCfg = calc|Win32
+		{62F10689-B8FF-464C-BB62-BF3D66858EEC}.calc|Win32.Build.0 = calc|Win32
+		{62F10689-B8FF-464C-BB62-BF3D66858EEC}.driver1|Win32.ActiveCfg = driver1|Win32
+		{62F10689-B8FF-464C-BB62-BF3D66858EEC}.driver1|Win32.Build.0 = driver1|Win32
+		{62F10689-B8FF-464C-BB62-BF3D66858EEC}.driver2|Win32.ActiveCfg = driver2|Win32
+		{62F10689-B8FF-464C-BB62-BF3D66858EEC}.driver2|Win32.Build.0 = driver2|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
